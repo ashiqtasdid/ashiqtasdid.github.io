@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ashiq.github.io",
+    url: "https://ashiqtasdid.github.io",
     title:
       "Md. Ashiquzzaman Khan - Developer, Streamer, Artist, Entrepreneur, Writer",
     description:
@@ -37,14 +37,14 @@ export const metadata: Metadata = {
       },
     ],
   },
-  metadataBase: new URL("https://ashiq.github.io"),
+  metadataBase: new URL("https://ashiqtasdid.github.io"),
   alternates: {
-    canonical: "https://ashiq.github.io",
+    canonical: "https://ashiqtasdid.github.io",
     languages: {
-      'en-US': 'https://ashiq.github.io',
-      'bn-BD': 'https://ashiq.github.io/',
-      'in-ID': 'https://ashiq.github.io/',
-      'ja-JP': 'https://ashiq.github.io/',
+      'en-US': 'https://ashiqtasdid.github.io',
+      'bn-BD': 'https://ashiqtasdid.github.io/',
+      'in-ID': 'https://ashiqtasdid.github.io/',
+      'ja-JP': 'https://ashiqtasdid.github.io/',
     },
   },
  
